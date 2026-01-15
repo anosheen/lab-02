@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Alishba Nosheen
+- **CCID:** anosheen
 
 ## References and Resources
 
