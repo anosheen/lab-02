@@ -7,7 +7,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/25905086/multiple-buttons-onclicklistener-android
+https://stackoverflow.com/questions/7248957/android-button-layout-get-two-buttons-side-by-side-across-entire-screen
+
 
 ## Verbal Collaboration
 
